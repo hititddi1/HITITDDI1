@@ -40,12 +40,18 @@ Bu proje, müşteri geri bildirimlerinden değerli içgörüler çıkarmak için
 ## 5.Proje Sonuçları
 
 Model performansı aşağıdaki gibidir:
-                 precision    recall    f1-score    support
 
-    negative        0.88       1.00      0.93         14
-     neutral        0.67       1.00      0.80          4
-    positive        1.00       0.83      0.90         23
+                  precision    recall  f1-score   support
 
-    accuracy                             0.90         41
-    macro avg        0.85       0.94     0.88         41
-    weighted avg     0.92       0.90     0.90         41
+     0              0.62      0.55      0.59       166
+     1              0.60      0.66      0.63       317
+     2              0.59      0.58      0.58       304
+
+    accuracy                            0.60       787
+    macro avg       0.61      0.60      0.60       787
+    weighted avg    0.60      0.60      0.60       787 
+## 6.Görseller
+![resim2](https://github.com/user-attachments/assets/9fec1da7-1c79-4522-b26d-02140ad71054)
+![resim3](https://github.com/user-attachments/assets/d63b41cd-32a8-4451-94a0-9c1addc8e63c)
+![resim4](https://github.com/user-attachments/assets/44913dcc-65ae-4ca5-bccd-09cf05e7b00d)
+![resim5](https://github.com/user-attachments/assets/2a530c26-305e-4ff9-9fd4-792aef03b631)
