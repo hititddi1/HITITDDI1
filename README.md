@@ -57,6 +57,8 @@ Model performansı aşağıdaki gibidir:
 <img src="https://github.com/user-attachments/assets/2a530c26-305e-4ff9-9fd4-792aef03b631" alt="resim5" width="650"/>
 <img src="https://github.com/user-attachments/assets/332857a6-1f50-4697-92b2-d00f7fa4625b" alt="resim6" width="650"/>
 
+## Örnek Çalışma
+![ornek_calısma](https://github.com/user-attachments/assets/fa093378-ba8b-42f6-b1da-268e8e99148a)
 
 
 
