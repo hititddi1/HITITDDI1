@@ -51,7 +51,12 @@ Model performansı aşağıdaki gibidir:
     macro avg       0.61      0.60      0.60       787
     weighted avg    0.60      0.60      0.60       787 
 ## 6.Görseller
-![resim2](https://github.com/user-attachments/assets/9fec1da7-1c79-4522-b26d-02140ad71054)
-![resim3](https://github.com/user-attachments/assets/d63b41cd-32a8-4451-94a0-9c1addc8e63c)
-![resim4](https://github.com/user-attachments/assets/44913dcc-65ae-4ca5-bccd-09cf05e7b00d)
-![resim5](https://github.com/user-attachments/assets/2a530c26-305e-4ff9-9fd4-792aef03b631)
+<img src="https://github.com/user-attachments/assets/9fec1da7-1c79-4522-b26d-02140ad71054" alt="resim2" width="650"/>
+<img src="https://github.com/user-attachments/assets/d63b41cd-32a8-4451-94a0-9c1addc8e63c" alt="resim3" width="650"/>
+<img src="https://github.com/user-attachments/assets/44913dcc-65ae-4ca5-bccd-09cf05e7b00d" alt="resim4" width="650"/>
+<img src="https://github.com/user-attachments/assets/2a530c26-305e-4ff9-9fd4-792aef03b631" alt="resim5" width="650"/>
+<img src="https://github.com/user-attachments/assets/332857a6-1f50-4697-92b2-d00f7fa4625b" alt="resim6" width="650"/>
+
+
+
+
