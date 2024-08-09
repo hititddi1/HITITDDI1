@@ -1,0 +1,9 @@
+transformers
+datasets
+torch
+fastapi
+uvicorn
+pandas
+scikit-learn
+nltk
+nest-asyncio
