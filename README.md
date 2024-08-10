@@ -60,5 +60,5 @@ Model performansı aşağıdaki gibidir:
 ## Örnek Çalışma
 ![ornek_calısma](https://github.com/user-attachments/assets/fa093378-ba8b-42f6-b1da-268e8e99148a)
 
-
+#Acıkhack2024TDDİ   #HİTİTDDİ1
 
